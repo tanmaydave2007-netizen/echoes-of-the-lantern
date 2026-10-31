@@ -1,0 +1,13 @@
+{
+  "name": "Echoes of the Lantern",
+  "short_name": "Echoes",
+  "description": "A private, local-first memory lantern.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101613",
+  "theme_color": "#101613",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
